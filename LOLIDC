@@ -10,7 +10,7 @@ local Scripts = {
     [136020512003847] = "https://raw.githubusercontent.com/1Luarmor/San/refs/heads/main/Diego",
     [73771248610396] = "https://raw.githubusercontent.com/dkhub43221/cali/refs/heads/main/streeys",
     [126194330110954] = "https://raw.githubusercontent.com/dkhub43221/chicargo/refs/heads/main/.lua",
-    [10648640958] = "https://raw.githubusercontent.com/dkhub43221/cali/refs/heads/main/streeys", 
+    [10648640958] = "https://raw.githubusercontent.com/dkhub43221/hood/refs/heads/main/rivals", 
 }
 
 local function getScriptUrl()
